@@ -1,2 +1,2 @@
 # LearnGithub
-this is me first git repository
+this is me first git repository <br> author
